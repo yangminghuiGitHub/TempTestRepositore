@@ -2,3 +2,4 @@
 
 
 Dialog::Dialog() {}
+printf("test");
